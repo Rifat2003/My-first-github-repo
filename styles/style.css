@@ -1,0 +1,10 @@
+p {
+    border: 10px solid tomato;
+    padding: 10px;
+    box-shadow: 10px 10px 5px ;
+}
+li{
+    text-align: center;
+    border: 10px solid;
+    
+}
